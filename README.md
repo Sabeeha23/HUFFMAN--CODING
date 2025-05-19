@@ -13,13 +13,13 @@ Get the input string.
 ### Step2:
 <br>
 Create tree nodes.
-### Step3:
+
 <br>
 
 ### Step4:
 <br>
 Main function is to implement Huffman coding.
-### Step5:
+
 <br>
 
 ### Step4:
