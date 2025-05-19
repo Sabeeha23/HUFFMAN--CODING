@@ -86,6 +86,8 @@ for char, code in huffman_codes.items():
 
 ![image](https://github.com/user-attachments/assets/4394f525-3105-4c38-8474-c943568c01cd)
 
+![image](https://github.com/user-attachments/assets/1c483538-f378-489b-9535-a956d0b48e78)
+
 
 
 ## Result
